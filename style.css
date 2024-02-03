@@ -160,6 +160,7 @@
 }
 body{
 	background-image: linear-gradient(#4e01c1 30%,#e3e6e6 50%);
+min-width: 1035px;
 }
 .pencil_photo{
 	background-size: cover;
